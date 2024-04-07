@@ -36,7 +36,6 @@ Bamboo is a mega-scale and information-dense dataset for classification and dete
 
 <div>
     <a href='https://arxiv.org/abs/2203.07845' target='_blank'>[Paper]</a>•
-    <a href='https://opengvlab.shlab.org.cn/bamboo/home' target='_blank'>[Project]</a>
 </div>
 </div>
 
@@ -63,14 +62,9 @@ Bamboo is a mega-scale and information-dense dataset for classification and dete
 
 ## About Bamboo
 
-### Explore
-[Website Link](https://opengvlab.shlab.org.cn/bamboo/home)
-
 ### Downloads
-- Sign up an account at [HERE](https://opengvlab.shlab.org.cn/register?redirect=/home), get the *USERNAME* for *opengvlab*.
-- Send your request to opengvlab@pjlab.org.cn. The request should include your name, username and orgnization as follows. We will notify you by email as soon as possible.
+- Send your request to yuanhan002@e.ntu.edu.sg. The request should include your name and orgnization as follows. We will notify you by email as soon as possible.
     ```
-    USERNANE: USERNANE(from step1)
     NAME: XXX
     ORGANIZATION: XXX (Bamboo is only for academic research and non-commercial use)
     ```
