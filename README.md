@@ -35,7 +35,7 @@ Bamboo is a mega-scale and information-dense dataset for classification and dete
 ---
 
 <div>
-    <a href='https://arxiv.org/abs/2203.07845' target='_blank'>[Paper]</a>•
+    <a href='https://arxiv.org/abs/2203.07845' target='_blank'>[Paper]</a>
 </div>
 </div>
 
@@ -54,7 +54,6 @@ Bamboo is a mega-scale and information-dense dataset for classification and dete
 [11/2022] We release [Bamboo-Det](https://entuedu-my.sharepoint.com/:u:/g/personal/yuanhan002_e_ntu_edu_sg/EbkbdpG3MnZKl5oQtcSPI1kBJAqjBQVxdH7F_KpG6UV3Bg?e=5bsd4S). \
 [10/2022] We won the **first place** in [Computer Vision in the Wild Challenge(ImageNet-1K in Pre-training track)](https://computer-vision-in-the-wild.github.io/eccv-2022/). :partying_face:! \
 [06/2022] We split Bamboo-CLS into 30 datasets that represent different realms (e.g. car, mammals, food and etc.) in the natural worlds: [HERE](./superclass/README.md) \
-[06/2022] Try out the web demo on Huggingface spaces 🤗: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/CVPR/Bamboo_ViT-B16_demo). \
 [06/2022] We release Bamboo-CLS with FC layer, it can classify 115,217 categories. \
 [06/2022] We release our label system with many useful attributes!. \
 [03/2022] Bamboo-CLS ResNet-50 and Bamboo-CLS ViT B/16 have been **released**. \
